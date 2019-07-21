@@ -2,7 +2,7 @@
 ---?color=linear-gradient(80deg, white 50%, #005f6b 50.2%)
 
 @snap[west span-40]
-# ![](assets/imgs/python.png)
+# ![Python Logo](assets/imgs/python.png)
 @snapend
 
 @snap[east span-40 h2-white]
