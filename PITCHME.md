@@ -1,4 +1,4 @@
----?color=linear-gradient(80deg, #BE5869 50%, #403A3E 50.2%)
+---?color=linear-gradient(80deg, white 50%, linear-gradient(to top left, #BE5869, #403A3E) 50.2%)
 
 @snap[west span-40]
 # ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/768px-Python.svg.png)
