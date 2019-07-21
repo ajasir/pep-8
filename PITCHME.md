@@ -9,13 +9,14 @@
 @snapend
 
 <!--- Slide 2 -->
----?color=#EFF0F2
+
+---?color=linear-gradient(to top left, #BE5869, #403A3E)
 @snap[north span-100]
-#### Python Enhancement Proposals (PEPs)
-@snapend
 
-A PEP is a design document providing
+## Python Enhancement Proposal (PEP)
 
-* information to the Python community
-* describing a new feature for Python
-* its processes or environment
+> A PEP is a design document providing information to the Python community, or describing a new feature for Python or its processes or environment. 
+
+> Intention of PEPs to be the primary mechanisms for proposing major new features, for collecting community input on an issue, and for documenting the design decisions that have gone into Python. The PEP author is responsible for building consensus within the community and documenting dissenting opinions.
+
+The PEP contains the index of all Python Enhancement Proposals, known as PEPs.
