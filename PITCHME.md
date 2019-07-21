@@ -1,4 +1,3 @@
-<!--- Slide 1 -->
 ---?color=linear-gradient(80deg, white 50%, #005f6b 50.2%)
 
 @snap[west span-40]
