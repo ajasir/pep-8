@@ -1,3 +1,4 @@
+[comment]: Slide 1
 
 ---?color=linear-gradient(80deg, white 50%, #005f6b 50.2%)
 
@@ -7,4 +8,12 @@
 
 @snap[east span-40 h2-white]
 ## Style Guide for Python Code
+@snapend
+
+[comment]: Slide 2
+---?color=#EFF0F2
+@title[Slide Fragments]
+
+@snap[north span-100]
+#### Python Enhancement Proposals (PEPs)
 @snapend
