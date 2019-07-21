@@ -10,10 +10,11 @@
 
 <!--- Slide 2 -->
 
----?color=linear-gradient(to top left, #BE5869, #403A3E)
+---?color=#BE5869
 @snap[north span-100]
 
 ## Python Enhancement Proposal (PEP)
+@snapend
 
 > A PEP is a design document providing information to the Python community, or describing a new feature for Python or its processes or environment. 
 
