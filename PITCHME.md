@@ -1,10 +1,5 @@
-theme            : template
-theme-background : [ "#FFF" ]
-theme-headline   : [ "Raleway", "#5289F7", "none" ]
-theme-byline     : [ "Raleway", "#111111", "none" ]
-theme-text       : [ "Ubuntu", "#1C1C1C", "none" ]
-theme-links      : [ "#5289F7", "#5254F7" ]
-theme-code       : [ "Source Code Pro" ]
-theme-controls   : [ "#484848" ]
-theme-margins    : [ "0", "15px" ]
+
+---?color=linear-gradient(to top left, #BE5869, #403A3E)
+
+# @fa[laptop-code fa-3x text-white]
 
